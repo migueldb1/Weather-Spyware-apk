@@ -28,7 +28,7 @@ Then it will start tracking the users location and dump the contacts to a databa
 ## Run it yourself
 
 - Clone the repo
-- Create a api key from https://openweathermap.org/api and add in the code
+- Create a api key from https://openweathermap.org/api and add it to the code
 - Create a firebase realtime database and firebase datastore
 - In the firebase datastore console start a collection named "users"
 - Add the config in the app folder (google-services.json)
