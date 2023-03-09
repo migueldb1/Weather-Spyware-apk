@@ -1,25 +1,25 @@
 # Spyware Weather App 
 
-## Displays weather, track users location and dump contacts to database
+## Goal
 
-The goal is to create a normal looking app and  
-track users location and dump contacts to a database without their knowledge.   
+This application was a school project build using Kotlin.
+The goal is to create a normal looking app and track users location and dump contacts to a database without their knowledge.   
 
 ## About
-The app lets you register/login with using SQLiteDatabase  
+
+The app lets you register/login with using SQLiteDatabase.
 When logged in it will ask for permissions.
 If the user accepts the permissions it will display the weather forecast for the users current location.  
-and start tracking the users location and dump the contacts to a database without their knowledge.
+Then it will start tracking the users location and dump the contacts to a database without their knowledge.
 
 ## Features
+
 - Login/register
 - Weather forecast (using OpenWeatherMap API) on current location
 - Location tracking (using FusedLocationProviderClient)
 - Contacts dump
 - Firebase realtime database
 - Firebase datastore
-
-> This application was a school project build using Kotlin.
 
 ## Run it yourself
 
