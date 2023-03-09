@@ -17,11 +17,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileSecurityAPK">
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="" />
-        <!--todo add API key for Google Maps API -->
-
         <activity
             android:name=".WeatherActivity"
             android:exported="true" />
