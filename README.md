@@ -32,11 +32,11 @@ Then it will start tracking the users location and dump the contacts to a databa
 - Create a firebase realtime database and firebase datastore
 - In the firebase datastore console start a collection named "users"
 - Add the config in the app folder (google-services.json)
-- Run the app (NOTE: You need to have a device with Android 13)
+- Run the app (**NOTE:** You need to have a device with Android 13)
 
-NOTE: When running the app make sure your location is turned on and that you have internet connection.  
+**NOTE:** When running the app make sure your location is turned on and that you have internet connection.  
 
-NOTE: When location is not working, open google maps and locate you device. Then try again.  
+**NOTE:** When location is not working, open google maps and locate you device. Then try again.  
 
 More info on how to connect to firebase can be found here: https://firebase.google.com/docs/android/setup
 
